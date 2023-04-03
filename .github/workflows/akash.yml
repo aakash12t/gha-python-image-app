@@ -67,4 +67,4 @@ jobs:
     - name: Lint app-code
       run: |
         python --version
-#        flake8 --extend-ignore E203,W234,E302,E305,E722
+#       flake8 --extend-ignore E203,W234,E302,E305,E722
